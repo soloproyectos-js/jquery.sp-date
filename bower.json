@@ -1,0 +1,23 @@
+{
+  "name": "jquery.sp-date",
+  "version": "0.1.0",
+  "homepage": "https://github.com/soloproyectos-js/jquery.sp-date",
+  "authors": [
+    "Gonzalo Chumillas <gchumillas@email.com>"
+  ],
+  "description": "A date helper plugin for jQuery.",
+  "main": "dist/jquery.sp-date.min.js",
+  "keywords": [
+    "jquery",
+    "date"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "~2.0"
+  }
+}
